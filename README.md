@@ -10,12 +10,17 @@ Free calculator logic from [The Convergence Hub](https://theconvergencehub.com),
 | Debt payoff: avalanche vs snowball | https://theconvergencehub.com/debt-payoff-calculator |
 | Emergency fund: target, gap and time to goal | https://theconvergencehub.com/emergency-fund-calculator |
 | Trump Account compounding for a child, with claiming steps | https://theconvergencehub.com/trump-accounts-for-your-child |
+| Trip cost estimator, from live Wikivoyage and public data | https://theconvergencehub.com/trip-estimator |
 
 More tools are listed in the [Solutions Hub](https://theconvergencehub.com/solutions).
 
 ## What is here
 
 The `calculators/` folder holds the browser scripts that do the math. Each file is plain JavaScript with no dependencies, written for the matching page on the site. They read from form inputs by id, so view the live page for the HTML. Nothing you type is sent anywhere.
+
+## Not included
+
+Our other tools (image, PDF, QR and unit tools) and our game OwnYourPath stay on the hosted site, where their extended limits and paid level packs are sold. They are free to use there.
 
 ## Want the finished tool on your own website?
 
