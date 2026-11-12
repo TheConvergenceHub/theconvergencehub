@@ -11,6 +11,7 @@ Free calculator logic from [The Convergence Hub](https://theconvergencehub.com),
 | Emergency fund: target, gap and time to goal | https://theconvergencehub.com/emergency-fund-calculator |
 | Trump Account compounding for a child, with claiming steps | https://theconvergencehub.com/trump-accounts-for-your-child |
 | Trip cost estimator, from live Wikivoyage and public data | https://theconvergencehub.com/trip-estimator |
+| Holiday gift and shopping assistant: ideas by age and interests, with disclosed affiliate links | https://theconvergencehub.com/shopping-assistant |
 
 More tools are listed in the [Solutions Hub](https://theconvergencehub.com/solutions).
 
