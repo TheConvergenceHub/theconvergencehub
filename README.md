@@ -12,6 +12,10 @@ Free calculator logic from [The Convergence Hub](https://theconvergencehub.com),
 | Trump Account compounding for a child, with claiming steps | https://theconvergencehub.com/trump-accounts-for-your-child |
 | Trip cost estimator, from live Wikivoyage and public data | https://theconvergencehub.com/trip-estimator |
 | Holiday gift and shopping assistant: ideas by age and interests, with disclosed affiliate links | https://theconvergencehub.com/shopping-assistant |
+| Vibe playlist builder: song lists by mood and occasion (titles and artists only) | https://theconvergencehub.com/vibe-playlist-builder |
+| Work style and culture fit self-check | https://theconvergencehub.com/work-style-culture-fit |
+| Resume bullet builder: honest, specific bullets | https://theconvergencehub.com/resume-bullet-builder |
+| Interview practice with timed questions | https://theconvergencehub.com/interview-practice |
 
 More tools are listed in the [Solutions Hub](https://theconvergencehub.com/solutions).
 
